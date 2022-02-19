@@ -1,4 +1,4 @@
-# info-recon
+# Info-Recon Tool
 An Information Recon Tool.
 
 # How To Use This tool
